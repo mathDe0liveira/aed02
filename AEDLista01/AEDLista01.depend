@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1682104378 source:c:\users\matheus\documents\aed02\aedlista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1682104378 c:\users\matheus\documents\aed02\aedlista01\questao01.h
+
+1682105601 source:c:\users\matheus\documents\aed02\aedlista01\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682105002 source:c:\users\matheus\documents\aed02\aedlista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1682105002 c:\users\matheus\documents\aed02\aedlista01\questao02.h
+
+1682105601 source:c:\users\matheus\documents\aed02\aedlista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1682105601 c:\users\matheus\documents\aed02\aedlista01\questao03.h
+
